@@ -1,0 +1,4 @@
+/home/node_modules/
+*.vscode
+*.zip
+*.git
